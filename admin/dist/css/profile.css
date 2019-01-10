@@ -1,0 +1,55 @@
+.profile .header-info hr {
+	border-width:1px;
+	border-style: inset;
+	opacity: 0.8;
+}
+.profile .header-info h1 {
+	font-weight: 400px;
+	opacity: 0.8;
+}
+.profile .content {
+	padding-right: 100px;
+	padding-left: 100px;
+	height: auto;
+	
+}
+.profile .content .first {
+	height: auto;
+	
+}
+.profile .content .btn{
+	float: left;
+	margin-left: 25px;
+	margin-top: 20px;
+	width: 140px;
+	margin-bottom: 10px;
+}
+
+.profile .content .first .tables  {
+	margin-left: 4px;
+
+}
+.profile .content .first .tables td {
+	border:none;
+	margin-left: 30px;
+	font-size: 14px;
+
+}
+.profile .content .first .tables th {
+	border:none;
+}
+.profile .content .first .work-info hr {
+	border-width:1px;
+	border-style: inset;
+	opacity: 0.8;
+}
+.profile .content .first .personal-info hr {
+	border-width:1px;
+	border-style: inset;
+	opacity: 0.8;
+}
+.profile .content .first .bank-info hr {
+	border-width:1px;
+	border-style: inset;
+	opacity: 0.8;
+}
